@@ -78,21 +78,6 @@ h2 {
   background: #4aaaa5;
 }
 
-/*nav {
-  float: right;
-  margin-top: 25px;
-}*/
-
-/*nav a {
-  display: inline-block;
-  padding-left: 15px;
-  margin-left: 15px;
-  line-height: 20px;
-  color: #999;
-  text-decoration: none;
-  border-left: 1px solid #efefef;
-}*/
-
 .footer {
 	flex-shrink: 0;
 	width: 100%;
@@ -114,6 +99,14 @@ h2 {
   margin: 0 0 40px;
   background: #ffffff;
   border: 1px solid #dddddd;
+}
+
+.prof-img {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 15px;
 }
 
 .sidebar {
